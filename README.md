@@ -10,7 +10,7 @@
 1. Clone the proejct into c:/
 
 ```shell
-git clone https://github.com/chet-cloud/win-frpc-service.git c:/frp
+git clone https://github.com/chet-cloud/win-frpc-service.git c:/frpc
 ```
 
 2. Install, start, stop, status, and restart the service
