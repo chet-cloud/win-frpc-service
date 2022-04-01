@@ -1,0 +1,3 @@
+2022/04/01 12:44:40 [I] [service.go:326] [36193e18891b5c85] login to server success, get run id [36193e18891b5c85], server udp port [0]
+2022/04/01 12:44:40 [I] [proxy_manager.go:144] [36193e18891b5c85] proxy added: [ssh]
+2022/04/01 12:44:40 [I] [control.go:181] [36193e18891b5c85] [ssh] start proxy success
