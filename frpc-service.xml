@@ -6,10 +6,10 @@
   <!-- Service description -->
   <description>Service for frp client</description>
   <!-- frp install dir -->
-  <workingdirectory>C:\frp</workingdirectory>
+  <workingdirectory>C:\frpc</workingdirectory>
   <!-- frpc.exe -->
-  <executable>C:\frp\frpc.exe</executable>
+  <executable>C:\frpc\frpc.exe</executable>
   <!-- args -->
   <startarguments>-c frpc.ini</startarguments>
-  <logpath>C:\frp\logs</logpath>
+  <logpath>C:\frpc\logs</logpath>
 </service>
